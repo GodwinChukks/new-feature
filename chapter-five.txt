@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Monkey love for banana created conflict2
+=======
+Monkey love for banana - created a conflict1
+>>>>>>> conflict-branch
